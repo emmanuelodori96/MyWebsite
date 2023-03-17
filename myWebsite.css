@@ -1,0 +1,52 @@
+nav {
+    background-color: blue;
+    margin-bottom: 2%; 
+    text-align: right;
+    padding-right: 10px;
+
+}
+
+a {
+    text-decoration: none; 
+    padding-left: 2%; 
+    display: inline-flex;
+}
+
+.myBox {
+    display: inline-flex; 
+    width: 280px; 
+    height: 120px;  
+    text-align: center;
+    align-items: center;
+}
+
+.myEmpBox {
+    display: inline-flex; 
+    width: 280px; 
+    height: 120px; 
+    background-color: white;
+
+}
+
+h3 {
+    text-align: center;
+    margin-left: 100px;
+}
+
+#div1{
+    background-color: rgb(92, 89, 89);
+    margin-right: 250px;
+}
+#div2{
+    background-color: rgb(20, 90, 152);
+}
+#div3{
+    background-color: rgb(60, 77, 94);
+}
+#div4{
+    background-color: rgb(101, 135, 160);
+    margin-right: 255px;
+}
+#div5{
+    background-color: rgb(200, 151, 27);
+}
